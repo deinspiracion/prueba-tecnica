@@ -1,5 +1,7 @@
 {
   "name": "prueba-tecnica-haibu",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
