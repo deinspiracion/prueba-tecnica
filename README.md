@@ -1,6 +1,6 @@
 ## Prueba tecnica
 
-Lista de personas uq epueden ser filtradas por el buscador y mostrar el detalle si se hace click en algun item.
+Lista de personas que pueden ser filtradas por el buscador y mostrar el detalle si se hace click en algun item.
 
 validador de fecha y rut.
 
